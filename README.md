@@ -1,4 +1,4 @@
-# Identification-of-lookalike-images
+# Identification-of-lookalike-images-using-fuzzy-matching
 
 Problem Statement : Identifying identical images using token based fuzzy matching algorithm
 
